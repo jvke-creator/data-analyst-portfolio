@@ -120,6 +120,5 @@ I am currently seeking entry-level Data Analyst and Data Analyst Internship oppo
 
 GitHub: "jkve-creator" (https://github.com/jkve-creator)
 
-LinkedIn: Coming soon
 
-Email: Add your professional email
+Email: amaechichidinma2@gmail.com
