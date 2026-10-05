@@ -67,24 +67,6 @@ Focus areas:
 
 ---
 
-📱 Telco Customer Churn Analysis
-
-Tools: Excel • SQL • Python • Power BI
-
-Analysing customer characteristics, services and contracts to identify patterns associated with customer churn and potential retention opportunities.
-
-Focus areas:
-
-- Churn rate
-- Contract types
-- Customer tenure
-- Internet services
-- Customer segmentation
-
-➡️ "View Project" (projects/telco-churn/)
-
----
-
 🛒 Superstore Sales & Profitability Analysis
 
 Tools: Excel • SQL • Python • Power BI
