@@ -100,6 +100,10 @@ view python analysis (https://github.com/jvke-creator/data-analyst-portfolio/blo
 
 ...
 
+## SQL Analysis 
+
+view SQL Analysis (https://github.com/jvke-creator/data-analyst-portfolio/blob/1a768a3070391a264e25464f1dda4e712871f6b9/projects/european-happiness/sql/analysis.sql) 
+
 🎓 Background
 
 B.Sc. Political Science
