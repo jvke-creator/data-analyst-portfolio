@@ -95,6 +95,7 @@ I believe good data analysis is not just about creating charts. It is about unde
 ## Python Analysis
 
 Python data analysis and visualization project using Pandas and Matplotlib.
+view python analysis (python/analysis.py) 
 
 ...
 
