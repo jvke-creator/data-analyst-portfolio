@@ -63,7 +63,7 @@ Focus areas:
 - Economic and social indicators
 - Interactive Power BI dashboard
 
-➡️ "View Project" (projects/european-happiness/)
+➡️ "View Project" (https://github.com/jvke-creator/data-analyst-portfolio/blob/ba3895e7e570c029d06fda95563148981aa05933/IMG_20261005_224331.jpg)
 
 ---
 
@@ -81,7 +81,6 @@ Focus areas:
 - Product performance
 - Discounts and profit
 
-➡️ "View Project" (projects/superstore-sales/)
 
 ---
 
