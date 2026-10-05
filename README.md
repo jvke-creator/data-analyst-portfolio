@@ -99,6 +99,7 @@ Python data analysis and visualization project using Pandas and Matplotlib.
 ...
 
 🎓 Background
+
 B.Sc. Political Science
 Nnamdi Azikiwe University
 2021 – 2025
