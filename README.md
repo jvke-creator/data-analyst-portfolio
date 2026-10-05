@@ -92,9 +92,11 @@ Business Question → Data Collection → Data Cleaning → Analysis → Visuali
 I believe good data analysis is not just about creating charts. It is about understanding the question, finding meaningful patterns and communicating what those patterns mean.
 
 ---
+## Python Analysis
 
+Python data analysis and visualization project using Pandas and Matplotlib.
 🎓 Background
-
+...
 B.Sc. Political Science
 Nnamdi Azikiwe University
 2021 – 2025
